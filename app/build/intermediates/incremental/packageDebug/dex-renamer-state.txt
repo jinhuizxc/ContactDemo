@@ -1,0 +1,7 @@
+#Sat Nov 18 17:39:19 CST 2017
+base.0=C\:\\Users\\jinhui\\Desktop\\ContactDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2414a18cc6b1c5202166bd913ebaf025a5109ee4
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\jinhui\\Desktop\\ContactDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e35f3d047c80dbd3d81c1c49c98692f7e0ea503e\\classes.dex
+base.1=C\:\\Users\\jinhui\\Desktop\\ContactDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e35f3d047c80dbd3d81c1c49c98692f7e0ea503e
+file.0=C\:\\Users\\jinhui\\Desktop\\ContactDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2414a18cc6b1c5202166bd913ebaf025a5109ee4\\classes.dex

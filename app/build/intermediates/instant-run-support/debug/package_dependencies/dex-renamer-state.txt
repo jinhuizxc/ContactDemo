@@ -1,0 +1,4 @@
+#Sat Nov 18 17:39:19 CST 2017
+base.0=C\:\\Users\\jinhui\\Desktop\\ContactDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_6c552d9974722d0c5c46936d8f291da566971451
+renamed.0=classes.dex
+file.0=C\:\\Users\\jinhui\\Desktop\\ContactDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_6c552d9974722d0c5c46936d8f291da566971451\\classes.dex
